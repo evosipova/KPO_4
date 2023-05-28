@@ -1,0 +1,12 @@
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/bin/Debug/net6.0/Interfaces.deps.json
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/bin/Debug/net6.0/Interfaces.dll
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/bin/Debug/net6.0/Interfaces.pdb
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/Interfaces.dll
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/refint/Interfaces.dll
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/Interfaces.pdb
+/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/Debug/net6.0/ref/Interfaces.dll

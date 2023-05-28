@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elizavetaosipova/Desktop/hw4/AuthorizationMicroservice/AuthorizationMicroservice.csproj": {}
+  },
+  "projects": {
+    "/Users/elizavetaosipova/Desktop/hw4/AuthorizationMicroservice/AuthorizationMicroservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elizavetaosipova/Desktop/hw4/AuthorizationMicroservice/AuthorizationMicroservice.csproj",
+        "projectName": "AuthorizationMicroservice",
+        "projectPath": "/Users/elizavetaosipova/Desktop/hw4/AuthorizationMicroservice/AuthorizationMicroservice.csproj",
+        "packagesPath": "/Users/elizavetaosipova/.nuget/packages/",
+        "outputPath": "/Users/elizavetaosipova/Desktop/hw4/AuthorizationMicroservice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elizavetaosipova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/elizavetaosipova/Desktop/hw4/Interfaces/Interfaces.csproj": {
+                "projectPath": "/Users/elizavetaosipova/Desktop/hw4/Interfaces/Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.0-preview2, )"
+            },
+            "Shed.CoreKit.WebApi": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/elizavetaosipova/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elizavetaosipova/Desktop/hw4/Interfaces/Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elizavetaosipova/Desktop/hw4/Interfaces/Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "/Users/elizavetaosipova/Desktop/hw4/Interfaces/Interfaces.csproj",
+        "packagesPath": "/Users/elizavetaosipova/.nuget/packages/",
+        "outputPath": "/Users/elizavetaosipova/Desktop/hw4/Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elizavetaosipova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/elizavetaosipova/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
